@@ -103,6 +103,7 @@ div.HX380631 {
 .HX380631 .Flip_Juice {
   display: grid;
   gap: 24px;
+  margin-bottom: 25px;
 }
 .HX380631 .Flip_Juice .Flip_Juice_text {
   padding: 40px 38px 0;
@@ -158,6 +159,7 @@ div.HX380631 {
   }
   .HX380631 .Flip_Juice {
     gap: 40px;
+    margin-bottom: 40px;
   }
   .HX380631 .Flip_Juice .Flip_Juice_text h3 {
     font-size: 26px;
@@ -187,6 +189,7 @@ div.HX380631 {
   }
   .HX380631 .Flip_Juice {
     gap: 40px;
+    margin-bottom: 50px;
   }
   .HX380631 .Flip_Juice .Flip_Juice_text h3 {
     font-size: 36px;
@@ -244,6 +247,7 @@ div.HX380631 {
   padding: 40px 16px 0;
   display: grid;
   gap: 24px;
+  margin-bottom: 25px;
 }
 @media screen and (min-width: 666px) {
   .HX380631 .juices_and_juices {
@@ -251,6 +255,7 @@ div.HX380631 {
     align-items: center;
     padding: 32px 30px 0;
     text-align: left;
+    margin-bottom: 40px;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -263,6 +268,7 @@ div.HX380631 {
   .HX380631 .juices_and_juices {
     padding: 60px 166px 0;
     gap: 40px;
+    margin-bottom: 60px;
   }
 }
 /* NutriU */
@@ -297,7 +303,7 @@ div.HX380631 {
 }
 /*  .ntensity_levels */
 .HX380631 .ntensity_levels {
-  padding: 40px 15px 0;
+  padding: 40px 0;
   display: grid;
   gap: 16px;
 }
@@ -306,6 +312,7 @@ div.HX380631 {
   gap: 16px;
   grid-template-columns: 40px auto;
   align-items: center;
+  margin-left: 15px;
 }
 .HX380631 .ntensity_levels .ntensity_levels_blocks img {
   width: 40px;
@@ -316,11 +323,12 @@ div.HX380631 {
 }
 @media screen and (min-width: 666px) {
   .HX380631 .ntensity_levels {
-    padding: 32px 30px;
+    padding: 32px 0;
     gap: 24px;
   }
   .HX380631 .ntensity_levels .ntensity_levels_blocks {
     grid-template-columns: 60px auto;
+    margin-left: 25px;
   }
   .HX380631 .ntensity_levels .ntensity_levels_blocks img {
     width: 60px;
@@ -331,11 +339,12 @@ div.HX380631 {
 }
 @media screen and (min-width: 1024px) {
   .HX380631 .ntensity_levels {
-    padding: 40px 42px;
+    padding: 40px 0;
     gap: 32px;
   }
   .HX380631 .ntensity_levels .ntensity_levels_blocks {
     grid-template-columns: 80px auto;
+    margin-left: 30px;
   }
   .HX380631 .ntensity_levels .ntensity_levels_blocks img {
     width: 80px;
@@ -346,11 +355,12 @@ div.HX380631 {
 }
 @media screen and (min-width: 1366px) {
   .HX380631 .ntensity_levels {
-    padding: 60px 166px;
+    padding: 60px 0;
     gap: 40px;
   }
   .HX380631 .ntensity_levels .ntensity_levels_blocks {
     grid-template-columns: 120px auto;
+    margin-left: 48px;
   }
   .HX380631 .ntensity_levels .ntensity_levels_blocks img {
     width: 120px;
